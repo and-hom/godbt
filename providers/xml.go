@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/deadkrolik/godbt/contract"
+	"github.com/and-hom/godbt/contract"
 )
 
 //XMLImageProvider - parser for XML-files

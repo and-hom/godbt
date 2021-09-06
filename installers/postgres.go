@@ -7,7 +7,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/deadkrolik/godbt/contract"
+	"github.com/and-hom/godbt/contract"
 	//need that
 	_ "github.com/lib/pq"
 )

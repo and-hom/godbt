@@ -3,8 +3,8 @@ package godbt
 import (
 	"errors"
 
-	"github.com/deadkrolik/godbt/contract"
-	"github.com/deadkrolik/godbt/installers"
+	"github.com/and-hom/godbt/contract"
+	"github.com/and-hom/godbt/installers"
 )
 
 //Tester - simple DB tester

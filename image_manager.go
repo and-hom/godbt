@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/deadkrolik/godbt/contract"
-	"github.com/deadkrolik/godbt/providers"
+	"github.com/and-hom/godbt/contract"
+	"github.com/and-hom/godbt/providers"
 )
 
 //ImageManager - manager for Image type

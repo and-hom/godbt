@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/deadkrolik/godbt/contract"
+	"github.com/and-hom/godbt/contract"
 )
 
 func TestSourceToString(t *testing.T) {

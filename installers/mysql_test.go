@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/deadkrolik/godbt/contract"
+	"github.com/and-hom/godbt/contract"
 )
 
 func TestGetImageQuery(t *testing.T) {
